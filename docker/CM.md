@@ -345,7 +345,7 @@ Beaucoup d'options sont disponibles:
   
   - `git --version`
 
-Quittez l'image et vérifiez votre version de Git
+Quittez l'image (écrivez exit dans le conteneur) et vérifiez votre version de Git
 
 ---
 
